@@ -10,8 +10,11 @@ import com.example.foodapp.util.Constants.Companion.QUERY_DIET
 import com.example.foodapp.util.Constants.Companion.QUERY_FILL_INGREDIENTS
 import com.example.foodapp.util.Constants.Companion.QUERY_NUMBER
 import com.example.foodapp.util.Constants.Companion.QUERY_TYPE
+import dagger.hilt.android.lifecycle.HiltViewModel
+import javax.inject.Inject
 
-class RecipesViewModel(application: Application): AndroidViewModel(application) {
+@HiltViewModel
+class RecipesViewModel @Inject constructor(application: Application): AndroidViewModel(application) {
 
      fun applyQueries(): HashMap<String, String> {
         val queries: HashMap<String, String> = HashMap()
