@@ -11,7 +11,9 @@
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_favorite.xml" value="0.22826086956521738" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_food_joke.xml" value="0.22826086956521738" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_recipes.xml" value="0.2604166666666667" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_recipes_bottom_sheet.xml" value="0.25416666666666665" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/placeholder_row_layout.xml" value="0.4" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/recipes_bottom_sheet.xml" value="0.32621199671322926" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/recipes_row_layout.xml" value="0.264" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
       </map>
