@@ -7,15 +7,28 @@
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.2215" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/drawable/ic_baseline_sentiment_very_dissatisfied_24.xml" value="0.1935" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/drawable/ic_error_placeholder.xml" value="0.1935" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/drawable/ic_search.xml" value="0.1795" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_favorite.xml" value="0.22826086956521738" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/favourites_recipe_layout.xml" value="0.2" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/favourites_recipe_row_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_food_joke.xml" value="0.22826086956521738" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_ingredients.xml" value="0.10416666666666667" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_instructions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_over_view.xml" value="0.47155963302752296" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_recipes.xml" value="0.2604166666666667" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/fragment_recipes_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/ingredients_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/ingredients_row_layout.xml" value="0.536" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/placeholder_row_layout.xml" value="0.4" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/recipes_bottom_sheet.xml" value="0.32621199671322926" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/layout/recipes_row_layout.xml" value="0.264" />
         <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/menu/details_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/menu/favourites_contextual_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Others/KotlinDev/FoodApp/app/src/main/res/menu/recipes_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
